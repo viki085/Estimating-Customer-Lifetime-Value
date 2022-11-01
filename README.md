@@ -1,4 +1,4 @@
-# Estimating Customer Lifetime Value for an E-commerce Company'
+# Estimating Customer Lifetime Value for an E-commerce Company
 
 Dataset link: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
